@@ -1,11 +1,11 @@
 # Site settings
-author: proactive-analyst-6157
-title: 
+author: Batsaikhan Ulambayar
+title: Sinatra Application Project
 header-img: img/home-bg.png
 email: u.batsaikhan@gmail.com
-copyright_name: proactive-analyst-6157
+copyright_name: Batsaikhan Ulambayar
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Final Project for Sinatra 
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: ubatsaikhan
 github_username:  batsaikhan84
